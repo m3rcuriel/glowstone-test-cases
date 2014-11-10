@@ -1,0 +1,8 @@
+name: Test
+main: com.m3rcuriel.Test
+version: 0.1
+
+commands:
+  command:
+    description: A Command
+    usage: /<command>
